@@ -92,6 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ### Acknowledgments/ Thank You to the following People:
 * Evan You (Vuejs)
 * TJ Holowaychuk (Koa)
+* Jeremy Thomas (bulma)
 * Adrian Obelmejias (API boilerplate)
 * Daniel Supernault (Bulma template)
 * Mike Roth (API boilerplate/ Mentoring)
