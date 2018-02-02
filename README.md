@@ -1,6 +1,6 @@
 # A Clean And Modern Starter
 
-<img src="/Users/Pope/stormcloud/bitbucket/boilerplate/hood.jpg">
+![mt hood](https://s3-us-west-2.amazonaws.com/jonpauluritis/+hood.jpg)
 
 "Clean and Modern" is a boilerplate for making beautiful, quick, lean, tidy web applications. To accomplish this we stole the best development experiences available (Vue, Bulma, Koa, and Mongodb) and put them in one place. So pour yourself a glass of 18 year old scotch and build something epic. 
 
