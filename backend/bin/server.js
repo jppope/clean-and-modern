@@ -23,10 +23,7 @@ mongoose.connect(config.database,{ useMongoClient: true })
 app.use(cors())
 app.use(logger())
 app.use(bodyParser())
-
-// this needs to be converted
 app.use(session())
-
 app.use(errorMiddleware())
 app.use(convert(mount('/docs', serve(`${process.cwd()}/docs`))))
 
